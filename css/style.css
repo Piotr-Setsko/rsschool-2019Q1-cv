@@ -1,4 +1,4 @@
-body {
+body, p, em {
   margin: 0;
   padding: 0;
   font-family: "PT Serif", "Times New Roman", serif;
@@ -9,10 +9,61 @@ body {
   width: 1024px;
 }
 
+header .site-wrapper {
+  display: flex;
+  justify-content: flex-start;
+}
+
+header {
+  background-color: #006363;
+}
+
+main {
+  display: flex;
+  background-color: #C08430;
+}
+
+footer {
+  background-color: #0A0A0D;
+}
+
 h1 {
+  margin: 0;
+  margin-top: 15px;
   font-family: "Merriweather", "Times New Roman", serif;
+  font-size: 40px;
+}
+
+img {
+  border-radius: 10px;
 }
 
 h2 {
+  margin: 0;
   font-family: "Teko", Arial, sans-serif;
 }
+
+.main-info {
+  margin-left: 70px;
+}
+
+.main-info span {
+  display: block;
+}
+
+.main-info a {
+  padding-left: 7px;
+  text-decoration: none;
+  color: #bbbbbb;
+}
+
+section {
+  margin-top: 15px;
+  border-top: 2px solid #ba512f;
+}
+
+main a {
+  color: #a64500;
+}
+
+
