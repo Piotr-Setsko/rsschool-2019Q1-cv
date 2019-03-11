@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "PT Serif", "Times New Roman", serif;
+}
+
+.site-wrapper {
+  margin: 0 auto;
+  width: 1024px;
+}
+
+h1 {
+  font-family: "Merriweather", "Times New Roman", serif;
+}
+
+h2 {
+  font-family: "Teko", Arial, sans-serif;
+}
