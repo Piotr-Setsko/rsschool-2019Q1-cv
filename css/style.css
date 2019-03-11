@@ -16,6 +16,7 @@ header .site-wrapper {
 
 header {
   background-color: #006363;
+  border-bottom: 3px solid #054158;
 }
 
 main {
@@ -30,30 +31,37 @@ footer {
 h1 {
   margin: 0;
   margin-top: 15px;
+  margin-bottom: 5px;
   font-family: "Merriweather", "Times New Roman", serif;
   font-size: 40px;
 }
 
 img {
+  margin-top: 15px;
   border-radius: 10px;
 }
 
 h2 {
   margin: 0;
+  margin-bottom: 15px;
   font-family: "Teko", Arial, sans-serif;
 }
 
 .main-info {
   margin-left: 70px;
+  margin-bottom: 20px;
 }
 
-.main-info span {
+span {
   display: block;
 }
 
-.main-info a {
+a {
   padding-left: 7px;
   text-decoration: none;
+}
+
+.main-info a {
   color: #bbbbbb;
 }
 
@@ -63,7 +71,7 @@ section {
 }
 
 main a {
-  color: #a64500;
+  color: #652e05;
 }
 
 
