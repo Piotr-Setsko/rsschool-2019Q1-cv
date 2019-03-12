@@ -1,0 +1,139 @@
+body {
+  min-width: 1100px;
+  height: 100%;
+
+}
+
+body, p, em {
+  margin: 0;
+  padding: 0;
+  font-family: "PT Serif", "Times New Roman", serif;
+}
+
+.site-wrapper {
+  margin: 0 auto;
+  width: 1024px;
+}
+
+header .site-wrapper {
+  display: flex;
+  justify-content: flex-start;
+}
+
+header {
+  background-color: #006363;
+  border-bottom: 3px solid #054158;
+}
+
+main {
+  display: flex;
+  background-color: #C08430;
+}
+
+footer {
+  background-color: #0A0A0D;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+a:hover {
+  opacity: 0.5;
+}
+
+a:active {
+  opacity: 0.2;
+}
+
+h1 {
+  margin: 0;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  font-family: "Merriweather", "Times New Roman", serif;
+  font-size: 40px;
+}
+
+img {
+  margin-top: 15px;
+  border-radius: 10px;
+}
+
+h2 {
+  margin: 0;
+  margin-bottom: 15px;
+  font-family: "Teko", Arial, sans-serif;
+}
+
+.main-info {
+  margin-left: 70px;
+  margin-bottom: 20px;
+}
+
+span {
+  display: block;
+}
+
+a {
+  padding-left: 7px;
+  text-decoration: none;
+}
+
+.main-info a {
+  color: #bbbbbb;
+}
+
+section {
+  margin-top: 15px;
+  border-top: 2px solid #ba512f;
+}
+
+main a {
+  color: #652e05;
+}
+
+.english {
+  margin-bottom: 15px;
+}
+
+footer {
+  border-top: 2px solid #575656;
+}
+
+footer .site-wrapper {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+footer p {
+  margin: 15px 0;
+  font-size: 18px;
+  font-family: "Merriweather", "Times New Roman", serif;
+  color: white;
+}
+
+.social {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 7px;
+  width: 120px;
+}
+
+.social-btn {
+  display: inline-block;
+  width: 23px;
+  height: 30px;
+}
+
+.vk {
+  background-image: url(../assets/vk.svg);
+}
+
+.facebook {
+  background-image: url(../assets/facebook.svg);
+}
+
+.linkedin {
+  background-image: url(../assets/linkedin.svg);
+}
