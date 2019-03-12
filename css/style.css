@@ -28,6 +28,18 @@ footer {
   background-color: #0A0A0D;
 }
 
+ul {
+  list-style-type: circle;
+}
+
+a:hover {
+  opacity: 0.5;
+}
+
+a:active {
+  opacity: 0.2;
+}
+
 h1 {
   margin: 0;
   margin-top: 15px;
