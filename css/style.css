@@ -1,3 +1,9 @@
+body {
+  min-width: 1100px;
+  height: 100%;
+
+}
+
 body, p, em {
   margin: 0;
   padding: 0;
