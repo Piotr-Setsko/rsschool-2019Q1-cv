@@ -23,7 +23,7 @@ Links to projects created in the learning process:
 - **Basic HTML and CSS:**
 [https://github.com/Piotr-Setsko/gllacy](https://github.com/Piotr-Setsko/gllacy)
  - **Advanced HTML and CSS:**
-[https://github.com/Piotr-Setsko/22938-mishka](https://github.com/Piotr-Setsko/22938-mishka)
+[https://github.com/Piotr-Setsko/22938-mishka](https://github.com/Piotr-Setsko/22938-mishka)  
 [https://github.com/Piotr-Setsko/repair-design-project](https://github.com/Piotr-Setsko/repair-design-project)
 - **JavaScript, working with API, fetching asynchronous data:**
 [https://github.com/Piotr-Setsko/fancy-weather](https://github.com/Piotr-Setsko/fancy-weather)
